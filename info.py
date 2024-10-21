@@ -19,7 +19,7 @@ BOT_TOKEN = environ['BOT_TOKEN']
 # Bot settings
 CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', False))
-PICS = (environ.get('PICS', 'https://i.postimg.cc/ydcwJyFP/2c5168fc7cea158a94132b79a696c4ca.jpg https://i.postimg.cc/76tmZCRV/Whats-App-Image-2024-08-21-at-07-24-22-6147b889.jpg')).split()
+PICS = (environ.get('PICS', 'https://i.postimg.cc/ydcwJyFP/2c5168fc7cea158a94132b79a696c4ca.jpg')).split()
 
 # Admins, Channels & Users
 ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '').split()]
