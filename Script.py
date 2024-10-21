@@ -3,19 +3,19 @@ class script(object):
 𝗠𝘆 𝗡𝗮𝗺𝗲 𝗜𝘀 <a href=https://t.me/{}>{}</a>, 𝗜 𝗖𝗮𝗻 𝗣𝗿𝗼𝘃𝗶𝗱𝗲 𝗦𝗰𝗲𝗻𝗲𝗽𝗮𝗰𝗸𝘀 𝗼𝗳 𝗠𝗼𝘃𝗶𝗲𝘀, 𝗝𝘂𝘀𝘁 𝗷𝗼𝗶𝗻 𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽 𝗮𝗻𝗱 𝗚𝗲𝘁 𝗦𝗰𝗲𝗻𝗲𝗽𝗮𝗰𝗸𝘀 ✌️"""
     HELP_TXT = """𝐇𝐞𝐲 {}
 𝐇𝐨𝐰 𝐜𝐚𝐧 𝐈 𝐇𝐞𝐥𝐩 𝐘𝐨𝐮."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/balafxig>BalaFx</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+    ABOUT_TXT = """🤖 𝗠𝗬 𝗡𝗔𝗠𝗘: {}
+🧑‍💻 𝗖𝗥𝗘𝗔𝗧𝗢𝗥: <a href=https://t.me/balafxig>BalaFx</a>
+📖 𝗟𝗜𝗕𝗥𝗔𝗥𝗬: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+📜 𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+💾 𝗗𝗔𝗧𝗔𝗕𝗔𝗦𝗘: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+⚙️ 𝗕𝗢𝗧𝗦𝗘𝗥𝗩𝗘𝗥: KOYEB
+🚧 𝗕𝗨𝗜𝗟𝗗 𝗦𝗧𝗔𝗧𝗨𝗦: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- TechMagazine-AutoFilterBot is a open source project. 
-- Source - https://github.com/itsyogieu/TechMagazine-AutoFilterBot
+- CutsandClipsBot is a open source project. 
+- Source - https://github.com/balatelebot/HeisenbergBot
 
 <b>DEVS:</b>
-- <a href=https://t.me/TechMagazineYT>TechMagazine</a>"""
+- <a href=https://t.me/balafxig>BalaFx</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
