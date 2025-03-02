@@ -93,7 +93,7 @@ This module only works for my admins
 • /broadcast - <code>to broadcast a message to all users</code>"""
     STATUS_TXT = """📂 ​𝐓𝐎𝐓𝐀𝐋 𝐅𝐈𝐋𝐄𝐒 : <code>{}</code>
 👤 ​𝐓𝐎𝐓𝐀𝐋 𝐔𝐒𝐄𝐑𝐒​: <code>{}</code>
-💬 ​𝐓𝐎𝐓𝐀𝐋 𝐂𝐇𝐀𝐓𝐒​🇸​: <code>{}</code>
+💬 ​𝐓𝐎𝐓𝐀𝐋 𝐂𝐇𝐀𝐓𝐒​​: <code>{}</code>
 🗄️ ​𝐔𝐒𝐄𝐃 𝐒𝐓𝐎𝐑𝐀𝐆𝐄​: <code>{}</code> 𝙼𝚒𝙱
 💾 ​𝐅𝐑𝐄𝐄 𝐒𝐓𝐎𝐑𝐀𝐆𝐄​: <code>{}</code> 𝙼𝚒𝙱"""
     LOG_TEXT_G = """#NewGroup
