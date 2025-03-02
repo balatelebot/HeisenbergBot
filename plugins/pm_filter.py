@@ -404,10 +404,10 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/scenepacks02')
+            InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/slowmo_store')
         ], [
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/+LLc4i3cgWUBhMDc1')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/sms_support_group')
         ], [
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -438,7 +438,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/+LLc4i3cgWUBhMDc1'),
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/sms_support_group'),
             InlineKeyboardButton('♥️ Source', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 Home', callback_data='start'),
