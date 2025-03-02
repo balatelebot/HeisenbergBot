@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/scenepacks02')
+                InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/slowmo_store')
             ],
             [
                 InlineKeyboardButton('ℹ️ Help', url='https://t.me/balafxig'),
@@ -42,10 +42,10 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/scenepacks02')
+            InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/slowmo_store')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/cutsbotsupport')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/sms_support_group')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
@@ -88,10 +88,10 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/scenepacks02')
+            InlineKeyboardButton('❤️Join Our Group✌️', url='https://t.me/slowmo_store')
             ],[
             InlineKeyboardButton('🔍 Search', switch_inline_query_current_chat=''),
-            InlineKeyboardButton('🤖 Updates', url='https://t.me/cutsbotsupport')
+            InlineKeyboardButton('🤖 Updates', url='https://t.me/sms_support_group')
             ],[
             InlineKeyboardButton('ℹ️ Help', callback_data='help'),
             InlineKeyboardButton('😊 About', callback_data='about')
