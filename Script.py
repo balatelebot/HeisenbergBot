@@ -11,8 +11,7 @@ class script(object):
 ⚙️ 𝗕𝗢𝗧𝗦𝗘𝗥𝗩𝗘𝗥: KOYEB
 🚧 𝗕𝗨𝗜𝗟𝗗 𝗦𝗧𝗔𝗧𝗨𝗦: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
-- CutsandClipsBot is a open source project. 
-- Source - Private
+- CutsandClipsBot Owned by Balafx. 
 
 <b>DEVS:</b>
 - <a href=https://t.me/balafxig>BalaFx</a>"""
